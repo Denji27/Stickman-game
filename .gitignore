@@ -7,3 +7,31 @@ UserSettings/
 *.csproj
 *.sln
 *.slnx
+*.
+
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+
+MemoryCaptures/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio / Rider generated
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS files
+.DS_Store
+Thumbs.db
